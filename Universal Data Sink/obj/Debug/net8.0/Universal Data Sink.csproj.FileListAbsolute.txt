@@ -1,0 +1,14 @@
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\Universal Data Sink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\Universal Data Sink.AssemblyInfoInputs.cache
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\Universal Data Sink.AssemblyInfo.cs
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\Universal Data Sink.csproj.CoreCompileInputs.cache
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\Universal Data Sink.genruntimeconfig.cache
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\bin\Debug\net8.0\datasink.exe
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\bin\Debug\net8.0\datasink.deps.json
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\bin\Debug\net8.0\datasink.runtimeconfig.json
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\bin\Debug\net8.0\datasink.dll
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\bin\Debug\net8.0\datasink.pdb
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\datasink.dll
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\refint\datasink.dll
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\datasink.pdb
+C:\Users\ha5dz\Google Drive (zd8@nyu.edu)\see_sharp_sandbox\Universal Data Sink\obj\Debug\net8.0\ref\datasink.dll
